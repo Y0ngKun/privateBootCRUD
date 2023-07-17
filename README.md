@@ -1,4 +1,6 @@
 # privateBootCRUD
+스프링부트,GRADLE,  JPA, ORACLE,  THYMELEAF, JQUERY, HTML,CSS,JS,BS4
+<hr>
 
 게시판 목록 
 
